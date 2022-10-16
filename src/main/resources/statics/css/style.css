@@ -1,0 +1,12 @@
+body{
+	width:400px;
+	padding:2%;
+	border-radius:10px;
+	text-align:center;
+	margin:10px auto;
+	background:grey;
+}
+
+.login{
+	width:49%;
+}
